@@ -1,0 +1,224 @@
+site_code,impact_category,impact_description
+AKW04450-0006,Reference,NA
+AKW04450-0007,Reference,NA
+AKW04450-0008,Reference,NA
+AKW04450-0009,Reference,NA
+AKW04450-0013,Reference,NA
+AKW04450-0016,Reference,NA
+AKW04450-0017,Reference,NA
+AKW04450-0023,Reference,NA
+AKW04450-0025,Reference,NA
+AKW04450-0027,Reference,NA
+AKW04450-0030,Reference,NA
+AKW04450-0032,Reference,NA
+AKW04450-0035,High,heavily mined
+AKW04450-0037,Moderate,"mining, roads upstream"
+AKW04450-0039,Low,roads in upper basin
+AKW04450-0042,Reference,NA
+AKW04450-0044,Reference,NA
+AKW04450-0054,Reference,NA
+AKW04450-0058,Reference,NA
+AKW04450-0063,Reference,NA
+AKW04450-0070,Moderate,"roads, logging(?) in basin"
+AKW04450-0073,Reference,NA
+AKW04450-0075,Reference,"highway parallels reach, mostly on ridgeline"
+AKW04450-0085,Reference,NA
+AKW04450-0089,Reference,NA
+AKW04450-0090,Reference,NA
+AKW04450-0091,Reference,NA
+AKW04450-0093,Reference,NA
+AKW04450-0094,Reference,NA
+AKW04450-0098,Reference,NA
+AKW04450-0105,Reference,NA
+AKW04450-0111,Low,"road, power line in upper basin"
+AKW04450-0112,Low,"road in basin, crosses above reach"
+AKW04450-0119,Low,"highway, trails in basin"
+AKW04450-0122,Reference,NA
+AKW04450-0146,Reference,NA
+AKW04450-0147,Moderate,"road parallels reach, possible mining upstream?"
+AKW04450-0153,Reference,NA
+AKW04450-0154,Reference,NA
+AKW04450-0163,Low,road crosses upper basin
+AKW04450-0178,Reference,NA
+AKW04450-0189,Low,"slightly urbanized, paralells highway"
+AKW04450-0193,Reference,NA
+AKW04450-0195,Moderate,"roads, house in basin"
+DENA-001,Reference,NA
+DENA-002,Reference,parallels DENA park road
+DENA-004,NA,"Just upstream of culvert, DENA park road"
+DENA-008,Reference,NA
+DENA-009,Reference,NA
+DENA-011,Reference,NA
+DENA-012,Reference,NA
+DENA-015,Reference,NA
+DENA-017,NA,Historically disturbed? Old berm parallels lower part of reach
+DENA-018,Reference,parallels DENA park road
+DENA-021,Low,"Park road in valley, culverts upstream"
+DENA-022,Low,"Heavy recreational use - foot trails near banks, bridge and parking lots upstream"
+DENA-024,Reference,NA
+DENA-026,Low,"Historic mining upstream and tribs, but no evidence near reach"
+DENA-028,Low,Floodplain mined historically but not in channel
+DENA-029,Reference,NA
+DENA-031,Reference,NA
+DENA-033,Reference,NA
+DENA-034,Reference,parallel to DENA park road
+DENA-035,High,Heavily mined until the 80's
+DENA-036,High,Heavily mined until the 80's
+DENA-045,Reference,NA
+DENA-051,Reference,NA
+DENA-055,Reference,NA
+DENA-063,Reference,NA
+DENA-GRTS-003,NA,road crossing ~1 mile upstream (culvert)
+DENA-GRTS-007,High,"Placer mined into the 80's, failed restoration in the 90's, close to USGS-002"
+DENA-GRTS-010,Reference,NA
+DENA-GRTS-014,Low,"Parallels park road, old coal mine upstream"
+DENA-GRTS-023,Reference,NA
+DENA-GRTS-027,Reference,NA
+DENA-GRTS-039,Reference,NA
+DENA-GRTS-049,Reference,NA
+DENA-GRTS-051,Reference,NA
+DENA-GRTS-060,Reference,NA
+DENA-GRTS-071,Reference,NA
+DENA-GRTS-084,Low,"parallel to DENA park road, parking area next to lower part of reach"
+DENA-GRTS-104,Reference,parallel to DENA park road
+DENA-GRTS-122,Reference,culverts upstream
+DENA-GRTS-127,Reference,NA
+DENA-GRTS-134,Reference,NA
+DENA-GRTS-137,Reference,NA
+DENA-GRTS-143,Reference,NA
+DENA-GRTS-173,Reference,NA
+DENA-GRTS-183,Reference,NA
+DENA-GRTS-196,Reference,NA
+DENA-MINE-001,High,historic mining throughout reach
+DENA-MINE-002,Reference,NA
+DENA-MINE-003,Low,"heavily mined upstream, some restoration"
+DENA-WQ-101,Reference,NA
+DKH-LS-1000,Reference,NA
+DKH-LS-1008,Low,extensive placer mining starting 4 miles upstream
+DKH-LS-1010,Reference,NA
+DKH-SS-1002,Reference,NA
+DKH-SS-1009,Reference,NA
+DKH-SS-1020,High,"heavily mined, some restoration"
+DKH-SS-1025,Reference,mining occurred downstream
+DKH-TR-1003,Moderate,near upper extent of mining
+DKH-TR-1067,High,heavily placer mined
+DKH-TR-1084,High,heavily placer mined
+DKH-TR-1113,Moderate,placer mined into the 80's
+DKH-TR-1133,NA,Listed as historically mined but no evidence at time of sampling
+DKH-TR-1227,High,placer mined into the 80's
+DKH-TR-1249,Moderate,placer mined into the 80's
+DKH-TR-1336,Reference,NA
+DKH-TR-1360,Impacted_Unknown_Severity,NA
+DKH-TR-1415,Reference,above mining extent
+DN-TR-10936,High,heavily mined
+USGS-001,Reference,NA
+USGS-002,High,"Placer mined into the 80's, failed restoration in the 90's, close to DENA-GRTS-007"
+USGS-005,High,"Extensive mining, failed restoration"
+USGS-006,Reference,NA
+USGS-007,Reference,NA
+USGS-008,Reference,NA
+USGS-010,Reference,NA
+WRST-001,Reference,NA
+WRST-002,Reference,NA
+WRST-003,Reference,NA
+WRST-004,Reference,NA
+WRST-005,Reference,NA
+WRST-006,Reference,parallels Nabesna Road
+WRST-007,Reference,NA
+WRST-008,Reference,NA
+WRST-009,Reference,NA
+WRST-010,Reference,NA
+WRST-011,Reference,NA
+WRST-013,Reference,NA
+WRST-014,Reference,NA
+WRST-015,NA,Cabins nearby
+WRST-016,Reference,NA
+WRST-017,Reference,NA
+WRST-019,Reference,NA
+WRST-020,Reference,NA
+WRST-021,Reference,NA
+WRST-022,Reference,NA
+WRST-023,Reference,NA
+WRST-024,Reference,NA
+WRST-025,Reference,near ATV trail
+WRST-026,Reference,NA
+WRST-027,Reference,NA
+WRST-028,Reference,NA
+WRST-029,Reference,NA
+WRST-036,Reference,bridge and cabins upstream
+WRST-038,Reference,NA
+WRST-039,Low,"multiple culverts upstream, parallels Nabesna Road"
+WRST-043,Reference,NA
+WRST-050,Reference,NA
+WRST-060,Low,"culvert upstream, parallels Nabesna Road"
+WRST-061,Low,"Fish camp, buildings, lawn upstream"
+WRST-065,Reference,NA
+WRST-067,Reference,NA
+WRST-078,Reference,NA
+WRST-079,Reference,NA
+WRST-080,Reference,NA
+WRST-081,Reference,NA
+WRST-082,Reference,NA
+WRST-087,Reference,NA
+WRST-088,Reference,NA
+WRST-091,Reference,NA
+WRST-092,Reference,NA
+WRST-093,Reference,NA
+WRST-095,Reference,NA
+WRST-096,Reference,NA
+WRST-097,Reference,NA
+WRST-098,Reference,NA
+WRST-105,Reference,NA
+WRST-GRTS-004,Reference,NA
+WRST-GRTS-006,Reference,NA
+WRST-GRTS-008,Low,Historic mining
+WRST-GRTS-012,Reference,NA
+WRST-GRTS-030,Reference,NA
+WRST-GRTS-036,Reference,NA
+WRST-GRTS-106,Reference,NA
+WRST-GRTS-120,Reference,NA
+WRST-GRTS-126,Reference,NA
+WRST-GRTS-130,Reference,partly parallels Nabesna road
+WRST-GRTS-131,Reference,NA
+WRST-GRTS-135,High,historic mining in and upstream of reach
+WRST-GRTS-160,Reference,NA
+WRST-GRTS-174,Reference,NA
+WRST-GRTS-204,Reference,NA
+WRST-GRTS-215,Reference,NA
+WRST-GRTS-220,Reference,NA
+WRST-GRTS-223,Reference,NA
+WRST-GRTS-224,Reference,NA
+WRST-GRTS-228,Reference,NA
+WRST-GRTS-234,Reference,NA
+WRST-GRTS-241,Reference,NA
+WRST-GRTS-244,Reference,NA
+WRST-GRTS-246,Reference,NA
+WRST-GRTS-247,Reference,NA
+WRST-GRTS-251,Reference,NA
+WRST-GRTS-289,Reference,NA
+WRST-GRTS-296,Reference,NA
+WRST-GRTS-302,Reference,NA
+WRST-GRTS-324,Reference,NA
+WRST-GRTS-345,Reference,NA
+WRST-GRTS-355,Reference,NA
+WRST-GRTS-356,Reference,NA
+WRST-GRTS-372,Reference,NA
+WRST-GRTS-375,Reference,NA
+WRST-GRTS-386,Reference,NA
+YUCH-003,Reference,NA
+YUCH-004,Reference,NA
+YUCH-010,Reference,NA
+YUCH-012,Reference,NA
+YUCH-GRTS-001,Reference,NA
+YUCH-GRTS-003,High,Heavily dredge mined
+YUCH-GRTS-017,Reference,NA
+YUCH-GRTS-035,High,Heavily dredge mined
+YUCH-GRTS-099,Reference,NA
+YUCH-GRTS-104,Reference,NA
+YUCH-GRTS-115,Reference,NA
+YUCH-GRTS-123,Reference,NA
+YUCH-GRTS-128,Reference,NA
+YUCH-GRTS-168,Reference,NA
+YUCH-GRTS-177,Reference,NA
+YUCH-GRTS-188,Reference,NA
+DENA-MINE-002A,Reference,NA
