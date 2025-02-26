@@ -2,6 +2,7 @@ library(here)
 library(tidyverse)
 
 # Here is the abundance/count data for the inverts ("taxon" denoted by Operational Taxonomic Unit (otu)). 
+# Counts are observations of an otu from a site on that date 
 invert_df <- read_csv(here("data/inverts_coarse-OTU-resolution.csv"))
 
 #Some information on the sites and where they are
